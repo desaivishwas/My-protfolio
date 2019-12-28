@@ -1951,7 +1951,7 @@ input, select, textarea {
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.55em 0.65em 0.50em 0.55em;
-		background-color: rgba(11, 96, 145, 0.356) 	;
+		background-color: #021018 	;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1969,7 +1969,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #dde8f1;
+			background-color:#001a1a;
 		}
 
 		input[type="button"]:active,
@@ -1977,7 +1977,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #7eaeac;
+			background-color: #70db70;
 		}
 
 /* Item */
